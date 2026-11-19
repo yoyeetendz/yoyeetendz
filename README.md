@@ -1,16 +1,23 @@
-## Hi there 👋
+### yoyeetendz here 👋
 
-<!--
-**yoyeetendz/yoyeetendz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Web developer interested in simple tools and pragmatic development. Based in Malaysia.
 
-Here are some ideas to get you started:
+<details>
+<summary><b>What I'm up to</b></summary>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- reach me at **@yoyeetendz** on GitHub
+- rewrites it once, then leaves it alone
+- reading docs more than books lately
+
+<p align="center">
+  <img width="99%" src="https://github-profile-trophy.vercel.app/?username=yoyeetendz&theme=gruvbox&no-frame=true&no-bg=true&margin-w=6&column=7" alt="Trophies" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=yoyeetendz&hide_border=true&theme=gruvbox" alt="Commit streak" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Express-bd93f9?style=for-the-badge&logoColor=white" alt="Express" /> <img src="https://img.shields.io/badge/TypeScript-bd93f9?style=for-the-badge&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/Node.js-bd93f9?style=for-the-badge&logoColor=white" alt="Node.js" />
+</p>
+
+</details>
+
+<sub>Still learning, still shipping.</sub>
